@@ -11,7 +11,7 @@
       <title>About</title>
       <link>https://github.com/HarinderBITS/hugo-website/pages/about/</link>
       <pubDate>Thu, 27 Nov 2025 12:33:47 +1300</pubDate>
-      <guid>http://localhost:1313/pages/about/</guid>
+      <guid>https://github.com/HarinderBITS/hugo-website/pages/about/</guid>
       <description>&lt;p&gt;TEST Page
 How To Add a Page in Hugo
 Now that we’ve added a post to our Hugo site, let’s add a page. Most content management systems, including WordPress, distinguish between posts and pages. Typically, a post is a dated piece of content, while a page consists of evergreen or static content.&lt;/p&gt;
