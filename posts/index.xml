@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Nov 2025 12:27:13 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nov Post</title>
+      <link>http://localhost:1313/posts/2025/nov-post/</link>
+      <pubDate>Thu, 27 Nov 2025 12:27:13 +1300</pubDate>
+      <guid>http://localhost:1313/posts/2025/nov-post/</guid>
+      <description>&lt;p&gt;Test data
+for social media posts can be based on content elements like headlines, images, and calls to action, which are then compared using A/B testing to see which performs better against specific metrics such as engagement, click-through rate, or shares. For software testing, test data refers to a set of data used to validate that applications and systems function as intended, which can be generated to mimic real data or used to perform stress tests.
+For social media content testing
+Define goals:
+Identify what you want to measure, such as engagement rate, clicks, or shares.
+Develop a hypothesis: Form a testable assumption, for example, &amp;ldquo;A video will get more engagement than a static image&amp;rdquo;.
+Create variations: Make two versions of the same post, changing only one element at a time (e.g., copy, headline, image, call-to-action, posting time).
+Run a test:
+Use the built-in A/B testing features on the social media platform to run the test on similar audiences.
+Analyze results: Collect data over a sufficient period to get a statistically significant sample size and determine which version performed better based on your defined goals.
+Use analytics:
+Track metrics like reach, impressions, likes, shares, and traffic to understand audience behavior and inform future posts.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Test data
+for social media posts can be based on content elements like headlines, images, and calls to action, which are then compared using A/B testing to see which performs better against specific metrics such as engagement, click-through rate, or shares. For software testing, test data refers to a set of data used to validate that applications and systems function as intended, which can be generated to mimic real data or used to perform stress tests.
+For social media content testing
+Define goals:
+Identify what you want to measure, such as engagement rate, clicks, or shares.
+Develop a hypothesis: Form a testable assumption, for example, &ldquo;A video will get more engagement than a static image&rdquo;.
+Create variations: Make two versions of the same post, changing only one element at a time (e.g., copy, headline, image, call-to-action, posting time).
+Run a test:
+Use the built-in A/B testing features on the social media platform to run the test on similar audiences.
+Analyze results: Collect data over a sufficient period to get a statistically significant sample size and determine which version performed better based on your defined goals.
+Use analytics:
+Track metrics like reach, impressions, likes, shares, and traffic to understand audience behavior and inform future posts.</p>
+<figure><img src="/uploads/2025/flower.jpg" width="405"><figcaption>
+      <h4>A descriptive title</h4>
+    </figcaption>
+</figure>
+
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
