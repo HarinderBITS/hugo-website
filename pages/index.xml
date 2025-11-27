@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/pages/</link>
+    <link>https://github.com/HarinderBITS/hugo-website/pages/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Nov 2025 12:33:47 +1300</lastBuildDate>
-    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/HarinderBITS/hugo-website/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/pages/about/</link>
+      <link>https://github.com/HarinderBITS/hugo-website/pages/about/</link>
       <pubDate>Thu, 27 Nov 2025 12:33:47 +1300</pubDate>
-      <guid>http://localhost:1313/pages/about/</guid>
+      <guid>https://github.com/HarinderBITS/hugo-website/pages/about/</guid>
       <description>&lt;p&gt;TEST Page
 How To Add a Page in Hugo
 Now that we’ve added a post to our Hugo site, let’s add a page. Most content management systems, including WordPress, distinguish between posts and pages. Typically, a post is a dated piece of content, while a page consists of evergreen or static content.&lt;/p&gt;
